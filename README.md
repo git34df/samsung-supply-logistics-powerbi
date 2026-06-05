@@ -14,4 +14,4 @@
 | Customer | Demand & customer segmentation |
 
 ## 🛠 Stack
-Power BI · DAX · SQL Server · Python (ETL)
+Power BI · DAX · Power Query
