@@ -85,3 +85,37 @@ Built entirely in Power BI with custom DAX measures, HTML Content KPI cards, and
 ---
 
 ## 📁 Repository Structure
+samsung-supply-logistics-powerbi/
+│
+├── assets/
+│   ├── home.png
+│   ├── ejecutivo.png
+│   ├── supplier.png
+│   ├── inventory.png
+│   ├── shipment.png
+│   └── customer.png
+│
+├── dax/
+│   └── measures.md
+│
+├── modelo/
+│   └── modelo.png
+│
+└── README.md
+
+---
+
+## 📸 Preview
+
+> Screenshots of each dashboard page go here.
+
+---
+
+## 👤 Author
+
+**Diego Torres Andrade**
+Systems Engineering Student — Universidad Privada del Norte
+Specialization: Data Analytics & Business Intelligence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/tu-usuario)
